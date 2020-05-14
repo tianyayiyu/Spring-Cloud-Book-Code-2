@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch-3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-5/feign-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-5/feign-inherit-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-5/feign-inherit-consume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-5/feign-inherit-provide" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mytest/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mytest/consume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mytest/test" charset="UTF-8" />
+  </component>
+</project>

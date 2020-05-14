@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="eureka-server" />
+        <module name="feign-demo" />
+        <module name="feign-inherit-api" />
+        <module name="feign-inherit-consume" />
+        <module name="feign-inherit-provide" />
+        <module name="test" />
+        <module name="test (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="feign-demo" target="1.8" />
+      <module name="feign-inherit-api" target="1.8" />
+      <module name="feign-inherit-consume" target="1.8" />
+      <module name="feign-inherit-provide" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="test (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
